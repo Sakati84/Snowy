@@ -1,6 +1,6 @@
 # Snowy!
 
-A GameBoy game by [Ventendo](https://github.com/Ventendo), [Christian Sonderfeld](https://github.com/christian-so), [jana370](https://github.com/jana370) & Andreas.
+A GameBoy game by [Ventendo](https://github.com/Ventendo), [Christian Sonderfeld](https://github.com/christian-so), [jana370](https://github.com/jana370) & Sakati84.
 
 ## Keyboard Controls
 
