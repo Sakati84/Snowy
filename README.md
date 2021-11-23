@@ -1,6 +1,6 @@
 # Snowy!
 
-A GameBoy game by 
+A GameBoy game by [Ventendo](https://github.com/Ventendo)
 
 ## Keyboard Controls
 
